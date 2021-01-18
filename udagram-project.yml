@@ -191,7 +191,7 @@ Resources:
             /var/www/html/index.php:
               content: |
                 <?php
-                echo '<h1>it works! Udagram, Udacity</h1>';
+                echo '<h1>Udacity Udagram Project</h1>';
                   ?>
               mode: 000644
               owner: apache
